@@ -1,1 +1,1 @@
-# Java-coding-exercises
+# Coding-exercises
